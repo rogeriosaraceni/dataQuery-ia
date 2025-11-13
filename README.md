@@ -31,7 +31,7 @@ Certifique-se de ter instalado:
 
 Clone o repositório e instale as dependências:
 ```bash
-git clone https://github.com/SeuUsuario/dataQuery-ia.git
+git clone https://github.com/rogeriosaraceni/dataQuery-ia
 cd dataQuery-ia
 npm install
 ```
