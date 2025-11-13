@@ -87,12 +87,6 @@ Abra seu navegador e visite http://localhost:5173 (ou a porta indicada pelo Vite
 
 ---
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório para melhorias na estilização, na engenharia de prompt ou na integração.
-
----
-
 ## 🔗 Referências
 
 - **SvelteKit**: https://kit.svelte.dev/
